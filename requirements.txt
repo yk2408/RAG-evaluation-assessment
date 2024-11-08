@@ -1,0 +1,4 @@
+transformers==4.46.2
+sentence-transformers==3.2.1
+torch==2.5.1
+nltk==3.9.1
